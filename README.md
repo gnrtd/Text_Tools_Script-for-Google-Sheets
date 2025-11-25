@@ -27,7 +27,7 @@ Select any range → click the command → your text is instantly formatted.
 1. Open your **Google Sheet**
 2. Go to **Extensions → Apps Script**
 3. Delete any existing code in the editor
-4. Paste the [script](link) from this post 
+4. Paste the [script](https://github.com/gnrtd/Text_Tools_Script-for-Google-Sheets/blob/main/Text_Tools_Script.zip) from this post 
 5. Click **Save**
 6. Close the Apps Script tab
 7. Refresh your Google Sheet (Ctrl/Cmd + R)
